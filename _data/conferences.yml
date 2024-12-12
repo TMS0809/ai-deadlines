@@ -2698,3 +2698,19 @@
   sub: ML
   note: Check the conference website for tutorials, contributions to the journal track and workshop deadlines
 
+- title: 1st International Conference on Future of AM
+  year: 2025
+  id: amconference25                                                   
+  link: https://futuream.sg/
+  deadline: 2025-06-31 12:00
+  abstract_deadline: 2025-03-31 23:59
+  timezone: Asia/Singapore
+  place: Singapore, Singapore
+  date: August,5-7,2025
+  start: 2025-08-05
+  end: 2025-08-07
+  paperslink: https://www.tandfonline.com/journals/nvpp20/about-this-journal#aims-and-scope
+  pwclink: https://www.accscience.com/journal/IJB
+  hindex: 100.0
+  sub: SP
+  note: Important
